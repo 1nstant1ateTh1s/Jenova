@@ -1,0 +1,17 @@
+c:\users\broandre\documents\visual studio 2013\Projects\PartyInvites\PartyInvites\bin\PartyInvites.dll.config
+c:\users\broandre\documents\visual studio 2013\Projects\PartyInvites\PartyInvites\bin\PartyInvites.dll
+c:\users\broandre\documents\visual studio 2013\Projects\PartyInvites\PartyInvites\bin\PartyInvites.pdb
+c:\users\broandre\documents\visual studio 2013\Projects\PartyInvites\PartyInvites\bin\System.Web.Helpers.dll
+c:\users\broandre\documents\visual studio 2013\Projects\PartyInvites\PartyInvites\bin\System.Web.Mvc.dll
+c:\users\broandre\documents\visual studio 2013\Projects\PartyInvites\PartyInvites\bin\System.Web.Razor.dll
+c:\users\broandre\documents\visual studio 2013\Projects\PartyInvites\PartyInvites\bin\System.Web.Webpages.Deployment.dll
+c:\users\broandre\documents\visual studio 2013\Projects\PartyInvites\PartyInvites\bin\System.Web.Webpages.dll
+c:\users\broandre\documents\visual studio 2013\Projects\PartyInvites\PartyInvites\bin\System.Web.Webpages.Razor.dll
+c:\users\broandre\documents\visual studio 2013\Projects\PartyInvites\PartyInvites\bin\System.Web.Razor.xml
+c:\users\broandre\documents\visual studio 2013\Projects\PartyInvites\PartyInvites\bin\System.Web.Webpages.xml
+c:\users\broandre\documents\visual studio 2013\Projects\PartyInvites\PartyInvites\bin\System.Web.Webpages.Deployment.xml
+c:\users\broandre\documents\visual studio 2013\Projects\PartyInvites\PartyInvites\bin\System.Web.Webpages.Razor.xml
+c:\users\broandre\documents\visual studio 2013\Projects\PartyInvites\PartyInvites\bin\System.Web.Helpers.xml
+c:\users\broandre\documents\visual studio 2013\Projects\PartyInvites\PartyInvites\bin\System.Web.Mvc.xml
+c:\users\broandre\documents\visual studio 2013\Projects\PartyInvites\PartyInvites\obj\Debug\PartyInvites.dll
+c:\users\broandre\documents\visual studio 2013\Projects\PartyInvites\PartyInvites\obj\Debug\PartyInvites.pdb
